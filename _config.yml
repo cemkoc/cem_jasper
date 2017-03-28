@@ -14,10 +14,10 @@ author: 'Cem Koc'
 nickname: cemkoc
 bio: 'I am a fourth year undergraduate student studying electrical engineering and computer science (EECS) in University of California Berkeley.'
 location: 'Berkeley, CA'
-url: 'http://cemkoc.me/'
+url: 'http://blog.cemkoc.me/'
 image: 'assets/images/cem.jpg'
 
-short_url: 'cemkoc.me/'
+short_url: 'blog.cemkoc.me'
 google_analytics: UA-96359340-1
 disqus: cemkoc
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
