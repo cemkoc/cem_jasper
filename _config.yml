@@ -5,19 +5,19 @@ paginate: 5
 language: 'en-us'
 
 # Website info
-name: 'Cem's Blog'
+name: "Cem's Blog"
 description: "Welcome to my blog where I will share my thoughts, travel adventures and machine learning pursuits...And maybe some rants on how computers are still pretty dumb."
 
 # Author's info
 author: 'Cem Koc'
 # edit 'categories' in the front matter of every post to match this username
 nickname: cemkoc
-bio: 'I am a fourth year undergraduate student studying electrical engineering and computer science (EECS) in University of California Berkeley.'
+bio: "I'm a fourth year undergraduate student studying electrical engineering and computer science (EECS) in University of California Berkeley."
 location: 'Berkeley, CA'
 url: 'http://blog.cemkoc.me/'
 image: 'assets/images/cem.jpg'
 
-short_url: 'blog.cemkoc.me'
+short_url: 'blog.cemkoc.me/'
 google_analytics: UA-96359340-1
 disqus: cemkoc
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
