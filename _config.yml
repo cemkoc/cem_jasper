@@ -9,16 +9,16 @@ name: 'Cem's Blog'
 description: "Welcome to my blog where I will share my thoughts, travel adventures and machine learning pursuits...And maybe some rants on how computers are still pretty dumb."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Cem Koc'
 # edit 'categories' in the front matter of every post to match this username
 nickname: cemkoc
 bio: 'I am a fourth year undergraduate student studying electrical engineering and computer science (EECS) in University of California Berkeley.'
 location: 'Berkeley, CA'
-url: 'http://cemkoc.me/blog/'
+url: 'http://cemkoc.me/'
 image: 'assets/images/cem.jpg'
 
-short_url: 'cemkoc.me/blog/'
-google_analytics: UA-69281367-1
+short_url: 'cemkoc.me/'
+google_analytics: UA-96359340-1
 disqus: cemkoc
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: '/'
@@ -57,9 +57,9 @@ lsi: false
 username: cemkoc
 repo: cemkoc.github.io
 branch: master
-relative_source: ./blog/
-destination: ../cemkoc.github.io/blog/
-production_url:  https://cemkoc.me/blog
+relative_source: ./
+destination: ../cemkoc.github.io/
+production_url:  https://cemkoc.me
 source_url:      https://github.com/cemkoc/cemkoc.github.io/
 
 exclude:
